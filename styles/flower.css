@@ -87,3 +87,16 @@ body{
     text-decoration-line: underline;
     color: #272727;
 }
+.support-section{
+    /* padding-left: 230px;
+    padding-right: 230px; */
+    padding: 0 230px 120px;
+}
+.support{
+    display: flex;
+    text-align: center;
+    padding: 87px 150px;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
