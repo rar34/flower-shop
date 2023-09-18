@@ -1,0 +1,89 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+/* banner related style */
+.banner{
+    display: flex;
+    background-color:  rgba(229, 84, 115, 0.10);
+    justify-content: space-between;
+    margin-bottom: 170px;
+
+}
+.banner-heading{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    padding: 50px 60px 0 240px;
+}
+.banner-text{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    padding: 0 60px 20px 240px;
+
+}
+.shop-now-btn{
+    padding-left: 240px;
+}
+.shop-btn{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: 0;
+    color: #fff;
+}
+.banner-image{
+    padding: 50px 240px 0 0 ;
+}
+/* main related style */
+.feature{
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+    margin-bottom: 120px;
+}
+.feature-heading{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.feature-text{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    /* padding-bottom: 50px; */
+    margin-bottom: 50px;
+}
+.flower-details{
+    display: flex;
+    justify-content: space-around;
+}
+.pink-flower{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-right: 25px;
+    padding-top: 100px;
+}
+.red-flower{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-right: 25px;
+    padding-top: 100px;
+}
+.yellow-flower{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-top: 100px;
+}
+.flower-name{
+    text-decoration-line: underline;
+    color: #272727;
+}
