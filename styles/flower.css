@@ -134,3 +134,19 @@ input{
     border-radius: 5px;
     border: 0;
 }
+/* footer related style */
+footer{
+    background-color: #111010;
+    padding: 100px 0;
+}
+.footer-text{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.copywrite{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
