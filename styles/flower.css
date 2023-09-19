@@ -124,13 +124,15 @@ body{
     
 }
 .subscribe-section{
+    text-align: center;
     background-image: url('../images/Rectangle\ 9.png');
-    padding: 100px 240px;
     background-repeat: no-repeat;
-    margin-left: 240px;
+    background-position: center;
+    padding: 100px 0;
+
 }
 input{
-    padding: 20px 200px 20px 20px;
+    padding: 20px 400px 20px 20px;
     border-radius: 5px;
     border: 0;
 }
