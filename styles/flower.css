@@ -100,3 +100,37 @@ body{
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
 }
+/* sign up section */
+.sign-up-section{
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px 420px 100px 420px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    gap: 100px;
+}
+.sign-up{
+    text-align: center;
+    
+}
+/* instagram related style */
+.instagram-section{
+    padding: 0 240px 0 240px;
+    margin-bottom: 100px;
+}
+.sample-flower{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.subscribe-section{
+    background-image: url('../images/Rectangle\ 9.png');
+    padding: 100px 240px;
+    background-repeat: no-repeat;
+    margin-left: 240px;
+}
+input{
+    padding: 20px 200px 20px 20px;
+    border-radius: 5px;
+    border: 0;
+}
