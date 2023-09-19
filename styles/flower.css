@@ -42,6 +42,8 @@ body{
     padding-left: 240px;
     padding-right: 240px;
     margin-bottom: 120px;
+    margin-left: 240px;
+    margin-right: 240px;
 }
 .feature-heading{
     color: #272727;
@@ -56,9 +58,12 @@ body{
     /* padding-bottom: 50px; */
     margin-bottom: 50px;
 }
+
+
 .flower-details{
     display: flex;
     justify-content: space-around;
+    
 }
 .pink-flower{
     width: 464px;
@@ -117,10 +122,13 @@ body{
 .instagram-section{
     padding: 0 240px 0 240px;
     margin-bottom: 100px;
+    margin-left: 240px;
+    margin-right: 240px;
 }
 .sample-flower{
     display: flex;
     justify-content: space-around;
+    gap: 25px;
     
 }
 .subscribe-section{
